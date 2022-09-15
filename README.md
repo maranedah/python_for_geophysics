@@ -1,4 +1,4 @@
-# python_for_geophysics
+# Python For Geophysics
 
 Small initiative to teach how to analyze Geophysic data with Python :)
 
