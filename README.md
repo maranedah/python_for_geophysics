@@ -12,7 +12,7 @@ Small initiative to teach how to analyze geophysic data with Python :)
 | 03 - Functions and data processing with Pandas      |  09-29-22    | [Lecture 3](https://colab.research.google.com/drive/1selTXHjdlpZonXw9uQdNaq98_BTlfj28?usp=sharing)|
 | 03 - Assignment | 09-29-22 | [Assignment 3](https://colab.research.google.com/drive/1IJZpGrUuYROoFqKXXua_E3s0bf5D17Xf?usp=sharing) |
 | 04 - Functions and Pandas      | 10-06-22     |  [Lecture 4](https://colab.research.google.com/drive/12ZRvlCABVXNG0Ltpjg5Yd_YAg-Cfuew0?usp=sharing)   |
-| 04 - Assignment | 10-06-22 | [Assignment 4](https://colab.research.google.com/drive/1jf5kx2B5pXd4hdw-eA5ZpbD4vNqqIkWt?usp=sharing) |
+| 04 - Assignment | 10-13-22 | [Assignment 4](https://colab.research.google.com/drive/1jf5kx2B5pXd4hdw-eA5ZpbD4vNqqIkWt?usp=sharing) |
 | 05 - PyGMT      | TBD     |     |
 | 06 - ObsPy      | TBD     |     |
 
